@@ -39,7 +39,7 @@
 }
 
 .all-contains {
-    margin-top: 240px;
+    margin-top: 170px;
     margin-right: 55px;
 }
 
@@ -59,10 +59,122 @@
 }
 
 .first-item {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
 }
 
 #icon {
-    color: blue;
+    color:
+        #16D887
+}
+
+.all-clue {
+    top: 1487.48px;
+}
+
+.titles {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: 150px;
+}
+
+.course-name {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.course-details {
+    color: #737272;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.all-signs {
+    display: flex;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn-call {
+    width: 174.99px;
+    height: 64px;
+    left: 294px;
+    top: 2393.3px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #F15B22;
+}
+
+.gredient-watch {
+    background-image: linear-gradient(90deg, #F15B22 0.92%, rgba(241, 91, 34, 0) 100.92%), url(images/watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 1140px;
+    font-size: 30px;
+    text-align: left;
+    color: white;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-top: 70px;
+    margin-top: 80px;
+    margin-left: 400px;
+    border-radius: 8px;
+    background-size: cover;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 577px;
+    background: #151414;
+    margin-top: 150px;
+    color: white;
+
+    padding-left: 290px;
+    padding-top: 100px;
+}
+
+.footer-title {
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.footer-details {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.social-icon {
+    display: flex;
+    gap: 20px;
+}
+
+.btn-secondary {
+    width: 170.11px;
+    height: 59.67px;
+    left: 1042px;
+    top: 2887.75px;
+    color:
+        #F15B22;
+    background: #FFFFFF;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 30px;
+}
+
+.email {
+    margin-top: 25px;
+    width: 255px;
+    height: 50px;
+    left: 1042px;
+    top: 2887.75px;
+    border-radius: 8px;
 }
