@@ -84,6 +84,33 @@
     font-weight: 700;
 }
 
+.blog-header {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: 250px;
+    padding-top: 60px;
+}
+
+.all-bloges {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 190px;
+
+}
+
+.blog {
+    padding-top: 5px;
+}
+
+.background-color {
+    background-color: #737272;
+    border-radius: 12px;
+
+}
+
+
+
 .course-details {
     color: #737272;
     font-weight: 500;
