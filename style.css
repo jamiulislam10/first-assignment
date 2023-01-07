@@ -9,7 +9,7 @@
 }
 
 .heads {
-    background-image: url(/images/banner/banner2.png);
+    background-image: url("./images/banner/banner2.png");
 
     height: 809px;
     font-size: 20px;
@@ -140,7 +140,7 @@
 }
 
 .gredient-watch {
-    background-image: linear-gradient(90deg, #F15B22 0.92%, rgba(241, 91, 34, 0) 100.92%), url(images/watch.png);
+    background-image: linear-gradient(90deg, #F15B22 0.92%, rgba(241, 91, 34, 0) 100.92%), url("./images/watch.png");
     background-repeat: no-repeat;
     height: 300px;
     width: 1140px;
