@@ -10,7 +10,7 @@
 
 .heads {
     background-image: url("./images/banner/banner2.png");
-
+    background-repeat: no-repeat;
     height: 809px;
     font-size: 20px;
     text-align: right;
