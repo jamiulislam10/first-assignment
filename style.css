@@ -177,4 +177,22 @@
     left: 1042px;
     top: 2887.75px;
     border-radius: 8px;
+    background: #151414;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 200;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+
+.fot {
+    display: flex;
+
+}
+
+.subscribes {
+    padding-left: 400px;
+    padding-top: 70px;
 }
